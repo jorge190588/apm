@@ -1,4 +1,7 @@
 
+# CONFIGURE ZABBIX AGENT
+1. get IP using docker inspect
+2. replace defafault IP in zabbix server configuración
 
 # DEFAULT PASSWORD
 1. Zabbix (Admin zabbix KoreaJapon)
@@ -12,8 +15,8 @@
 3. User: zabbix
 4. Password: carryontech
 
-## Zabbix
-1. URL: http://localhost7/api_jsonrpc.php
+## Zabbix pluggin in Grafana
+1. URL: http://localhost/api_jsonrpc.php
 2. User: Admin
 3. Password: zabbix
 
@@ -26,3 +29,5 @@
 6. [Configuring Grafana with Zabbix
 ](https://blog.zabbix.com/configuring-grafana-with-zabbix/8007/)
 7. [How To Install and Configure Grafana to Plot Beautiful Graphs from Zabbix on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-grafana-to-plot-beautiful-graphs-from-zabbix-on-centos-7)
+8. [Zabbix Monitorear Linux utilizando el Agente](https://techexpert.tips/es/zabbix-es/zabbix-monitor-linux-usando-agent/)
+9. [Zabbix Monitorear Windows utilizando SNMP](https://techexpert.tips/es/zabbix-es/zabbix-monitor-windows-usando-snmp/)
