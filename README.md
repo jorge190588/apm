@@ -31,3 +31,4 @@
 7. [How To Install and Configure Grafana to Plot Beautiful Graphs from Zabbix on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-grafana-to-plot-beautiful-graphs-from-zabbix-on-centos-7)
 8. [Zabbix Monitorear Linux utilizando el Agente](https://techexpert.tips/es/zabbix-es/zabbix-monitor-linux-usando-agent/)
 9. [Zabbix Monitorear Windows utilizando SNMP](https://techexpert.tips/es/zabbix-es/zabbix-monitor-windows-usando-snmp/)
+10. [Web Monitoring With ZABBIX Explained](https://www.youtube.com/watch?v=L_J56StHHbg)
